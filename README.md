@@ -6,7 +6,10 @@
 * pipenv
 * fichiers authent google : token.pickle + credential.json
 https://developers.google.com/gmail/api/quickstart/python
-  
+
+##Documentation Quickstart API Google :
+*https://developers.google.com/gmail/api/quickstart/python
+
 ##Git installation : 
 * https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Installation-de-Git
 * accés SSH pour participer au repo git : https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
