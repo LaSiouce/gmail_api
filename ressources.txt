@@ -1,6 +1,0 @@
-ressources :
-https://developers.google.com/gmail/api/quickstart/python
-https://github.com/googleapis/google-api-python-client/blob/master/docs/start.md
-https://developers.google.com/identity/protocols/oauth2
-
-https://developers.google.com/edu/python/introduction
