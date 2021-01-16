@@ -8,7 +8,7 @@
 https://developers.google.com/gmail/api/quickstart/python
 
 ##Documentation Quickstart API Google :
-*https://developers.google.com/gmail/api/quickstart/python
+* https://developers.google.com/gmail/api/quickstart/python
 
 ##Git installation : 
 * https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Installation-de-Git
