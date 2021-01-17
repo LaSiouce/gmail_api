@@ -18,5 +18,6 @@ https://developers.google.com/gmail/api/quickstart/python
 * https://medium.com/better-programming/a-beginners-guide-to-the-google-gmail-api-and-its-documentation-c73495deff08
 
 ##Cours python 3 :
+* https://docs.python.org/3/tutorial/
 * https://www.youtube.com/watch?v=_uQrJ0TkZlc
 
