@@ -4,7 +4,7 @@ C'est comme tout, il y a deux écoles, soit tu utilises, soit tu bricoles.
 
 ## Prérequis :
 * [Python 3.9](https://www.python.org/ftp/python/3.9.1/python-3.9.1-amd64.exe)
-* [pip] le manager de paquets - tu cocos (https://pypi.python.org/pypi/pip)
+* [pip](https://pypi.python.org/pypi/pip) le manager de paquets - tu cocos 
 * le compte gmail du sauce
 
 ## Les outils du bricoleur
