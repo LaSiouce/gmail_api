@@ -23,4 +23,6 @@ https://developers.google.com/gmail/api/quickstart/python
 
 ## OAuth - authentification/gestion des droits : 
 * https://developers.google.com/identity/protocols/oauth2
+
+
 ![alt text](https://developers.google.com/identity/protocols/oauth2/images/flows/authorization-code.png)
